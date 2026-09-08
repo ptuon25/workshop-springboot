@@ -1,4 +1,4 @@
-package com.tuon.tsells;
+package com.tuon.tsells.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
